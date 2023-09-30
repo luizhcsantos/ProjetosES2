@@ -1,0 +1,7 @@
+Analsie de Defeitos que faltam: 
+projeto 1 - testador
+
+projeto 2 - usuario
+
+projeto 4 - projetista, testador
+
