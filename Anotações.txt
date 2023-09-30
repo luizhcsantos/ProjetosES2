@@ -1,7 +1,13 @@
 Analsie de Defeitos que faltam: 
-projeto 1 - testador
+projeto 1 - testador (gui, hariã)
 
-projeto 2 - usuario
+projeto 2 - usuario (lucas, luiz)
 
-projeto 4 - projetista, testador
+projeto 3 - usuario (gui, hariã)
 
+projeto 4 - projetista (gui, hariã), testador (lucas, luiz)
+
+Divisão:  
+Gerente - Perspectiva de Usuário
+SQA - Perspectiva do Projetista
+Programador - Perspectiva do Testador
