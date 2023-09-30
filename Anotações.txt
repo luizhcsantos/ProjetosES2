@@ -1,4 +1,4 @@
-Analsie de Defeitos que faltam: 
+Analise de Defeitos que faltam: 
 projeto 1 - testador (gui, hariã)
 
 projeto 2 - usuario (lucas, luiz)
@@ -11,3 +11,29 @@ Divisão:
 Gerente - Perspectiva de Usuário
 SQA - Perspectiva do Projetista
 Programador - Perspectiva do Testador
+
+
+Definir um conjunto de funções que o usuário esteja apto a executar.
+- definir o conjunto de entradas necessárias para executar cada função e o conjunto de saídas que são geradas por cada função (isso pode ser feito escrevendo todos os cenários operacionais que o sistema deve executar).
+- iniciar com os cenários mais óbvios até chegar nos menos comuns ou condições especiais.
+- ao fazer isso, faça a você mesmo as perguntas a seguir.
+Sugestão: usar como modelo Caso de Uso
+
+funções que espero que o sistema ofereça como usuário
+- criar novo pedido
+- editar pedido
+- cancelar pedido
+- 
+
+
+casos de uso: 
+
+1. registrar novo pedido
+2. formatar pedido
+3. imprimir pedido
+4. visualizar todos os pedidos abertos
+5. atualizar monitor da cozinha
+6. alterar estado do pedido de aberto para finalizado
+
+R1: 
+- como adicionar dados do entregador após o pedido ser marcado como finalziado mas ainda não entregue?
